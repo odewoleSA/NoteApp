@@ -1,3 +1,2 @@
 # NoteApp
- NoteApp
- mynote_main.py run the application
+mynote_main.py runs the application
